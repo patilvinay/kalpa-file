@@ -11,7 +11,7 @@
   "files": [
     "lib"
   ],
-  "main": "index.js",
+  "main": "./index",
   "keywords": [
     "Kalpa",
     "Ansible",
