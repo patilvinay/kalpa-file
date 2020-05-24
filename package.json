@@ -11,7 +11,7 @@
   "files": [
     "lib"
   ],
-  "main": "./index",
+  "main": "./lib/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "semantic-release": "semantic-release",
